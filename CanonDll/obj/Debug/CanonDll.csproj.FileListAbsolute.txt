@@ -1,0 +1,5 @@
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\bin\Debug\CanonDll.dll
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\bin\Debug\CanonDll.pdb
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\obj\Debug\CanonDll.dll
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\obj\Debug\CanonDll.pdb

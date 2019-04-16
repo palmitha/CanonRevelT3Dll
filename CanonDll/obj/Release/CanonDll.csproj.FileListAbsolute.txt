@@ -1,0 +1,7 @@
+C:\Users\jesus.palma\AppData\Local\Temporary Projects\CanonDll\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\bin\Release\CanonDll.dll
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\bin\Release\CanonDll.pdb
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\obj\Release\CanonDll.dll
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\obj\Release\CanonDll.pdb
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\CanonDll\CanonDll\bin\Release\SigPlusNET.dll
